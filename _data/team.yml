@@ -3,7 +3,7 @@
   name: "Jinu"
   surname: "Rajendran"
   title: ""
-  thumbnailUrl: jinu.jpg
+  thumbnailUrl: Jinu.jpg
   team: true
  
 - 
@@ -20,7 +20,7 @@
   name: "Arun"
   surname: "Ravindranath"
   title: ""
-  thumbnailUrl: Arun.jpg
+  thumbnailUrl: arun.jpg
   team: true
   
 - 
@@ -28,6 +28,6 @@
   name: "Suparna"
   surname: "Jayaprakash"
   title: ""
-  thumbnailUrl: Suparna.jpg
+  thumbnailUrl: suparna.jpg
   team: true
   
