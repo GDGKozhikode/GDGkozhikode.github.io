@@ -1,0 +1,51 @@
+-
+  date: "2017-10-28"
+  dateReadable: "October 28"
+  tracks:
+    - {title: "DevFest Kozhikode 2017", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [001, 708]
+    }
+    - {
+      startTime: "10:45",
+      endTime: "11:45",
+      sessionIds: [002, 708]
+    }
+    - {
+    	startTime: "11:45",
+    	endTime: "12:00",
+    	sessionIds: [307, 708]
+    }
+    - {
+      startTime: "12:00",
+      endTime: "12:45",
+      sessionIds: [003, 708]
+    }
+    - {
+      startTime: "12:45",
+      endTime: "13:00",
+      sessionIds: [405, 708]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [503, 708]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "15:00",
+      sessionIds: [004, 708]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:15",
+      sessionIds: [604, 708]
+    }
+    - {
+      startTime: "15:15",
+      endTime: "17:00",
+      sessionIds: [005, 708]
+    }

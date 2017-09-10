@@ -1,0 +1,68 @@
+-
+  id: 307
+  title: "Break and Networking"
+  place: ""
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 405
+  title: "Photo Session"
+  place: ""
+-
+  id: 503
+  title: "Lunch and Networking"
+  place: ""
+  service: true
+-
+  id: 604
+  title: "Tea and Networking"
+  place: ""
+  service: true
+-
+  id: 708
+  title: ""
+  place: ""
+-
+  id: 001
+  title: "Inauguration of DevFest and CodumKozhikodum.org"
+  description: "Description."
+  subtype: keynote
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  
+-
+  id: 002
+  title: "UI UX and Design Expectations of the Future"
+  description: "Description."
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
+  
+  id: 003
+  title: "Bitcoin and Block Chain"
+  description: "Description."
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  
+-
+  id: 004
+  title: "Actions on Google API"
+  description: "Description."
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
+  
+-
+  id: 005
+  speakers: [3]
+  title: "AI & Hands-on"
+  description: "Description."
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+ 

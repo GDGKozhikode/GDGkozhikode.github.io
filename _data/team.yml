@@ -1,0 +1,33 @@
+- 
+  id: 0
+  name: "Jinu"
+  surname: "Rajendran"
+  title: ""
+  thumbnailUrl: jinu.jpg
+  team: true
+ 
+- 
+  id: 1
+  name: "Navaneeth"
+  surname: "Anand"
+  title: ""
+  thumbnailUrl: Navaneeth.jpg
+  team: true
+ 
+
+- 
+  id: 2
+  name: "Arun"
+  surname: "Ravindranath"
+  title: ""
+  thumbnailUrl: Arun.jpg
+  team: true
+  
+- 
+  id: 3
+  name: "Suparna"
+  surname: "Jayaprakash"
+  title: ""
+  thumbnailUrl: Suparna.jpg
+  team: true
+  

@@ -1,0 +1,67 @@
+-
+  id: 3
+  name: "Praveen"
+  surname: "Sreedhar"
+  company: "Google Summer of Code"
+  title: "ML AI Expert"
+  bio: ""
+  thumbnailUrl: DawidOstrowski.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 4
+  name: "Praseed"
+  surname: "Pai"
+  company: "UST Global"
+  title: "Sr. Solutions Architect"
+  bio: ''
+  thumbnailUrl: DmytroDanylyk.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 5
+  name: "Prasana"
+  surname: "S"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: MateuszHerych.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+  id: 6
+  name: "Googler"
+  surname: ""
+  company: "Google"
+  title: ""
+  bio: ""
+  thumbnailUrl: RomanMazur.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+-
+  id: 7
+  name: "Speaker"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
