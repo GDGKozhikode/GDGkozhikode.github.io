@@ -27,7 +27,7 @@
   title: "Inauguration of DevFest and CodumKozhikodum.org"
   description: "Description."
   subtype: keynote
-  speakers: [7]
+  # speakers: [7]
   language: en
   complexity: "Expert"
   
@@ -39,18 +39,19 @@
   speakers: [5]
   language: en
   complexity: "Intermediate"
-  
+
+-  
   id: 003
-  title: "Bitcoin and Block Chain"
+  title: "React Native"
   description: "Description."
   subtype: presentation
-  speakers: [4]
+  # speakers: [4]
   language: en
   complexity: "Intermediate"
   
 -
   id: 004
-  title: "Actions on Google API"
+  title: "Actions on Google & API.AI"
   description: "Description."
   subtype: presentation
   speakers: [6]

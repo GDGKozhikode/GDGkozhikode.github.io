@@ -43,9 +43,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {permalink: "/404/", text: "Register Here"}
+ - {permalink: "https://bit.ly/gdgdevfestkkd17", text: "Register Here"}
 rightNavigationButtons:
- - {permalink: "/404/", text: "Register Here"}
+ - {permalink: "https://bit.ly/gdgdevfestkkd17", text: "Register Here"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -53,8 +53,15 @@ heroTitle: "GDG DevFest <typeout> 2017"
 eventDate: "October - 28 , 2017"
 typeoutTextValues: '"Kozhikode"'
 typeoutFallback: ""
+heroDescription: "Google Developer Group Kozhikode (GDG Kozhikode) is a non - profit group supported by Google and is for tech enthusiasts, programmers and students interested in technology.
+
+
+We conduct a bunch of regular events at Kozhikode, which may include hands on coding, tech talks etc...   
+
+
+GDG DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. More info https://developers.google.com/events/devfest/"
 heroButtons:
- - {permalink: "/404/", text: "Register Here"}
+ - {permalink: "https://bit.ly/gdgdevfestkkd17", text: "Register Here"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -68,14 +75,14 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "7", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "4", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -189,7 +196,12 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs1: "Google Developer Group Kozhikode (GDG Kozhikode) is a non - profit group supported by Google and is for tech enthusiasts, programmers and students interested in technology."
+aboutUs2: "We conduct a bunch of regular events at Kozhikode, which may include hands on coding, tech talks etc...   "
+aboutUs3: "GDG DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies. More info <a src=\"https://developers.google.com/events/devfest/\">https://developers.google.com/events/devfest/</a>"
+
+
+
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
