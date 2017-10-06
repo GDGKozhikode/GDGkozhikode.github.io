@@ -8,7 +8,7 @@
   thumbnailUrl: praveens.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    # - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
   id: 5
   name: "Prasannaa"
@@ -19,9 +19,9 @@
   thumbnailUrl: Prasannaa.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    # - {name: "twitter", link: "https://twitter.com/mherych"}
 -
   id: 6
   name: "Lakshya"
@@ -32,7 +32,7 @@
   thumbnailUrl: Lakshya.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://google.com/+LakshyaSivaramakrishnan"}
-    - {name: "site", link: "http://olostan.name/"}
+    # - {name: "site", link: "http://olostan.name/"}

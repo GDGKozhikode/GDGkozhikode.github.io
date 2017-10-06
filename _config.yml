@@ -1,5 +1,5 @@
 # Plugins
-gems:
+Plugins:
 - jekyll-sitemap
 safe: false
 
